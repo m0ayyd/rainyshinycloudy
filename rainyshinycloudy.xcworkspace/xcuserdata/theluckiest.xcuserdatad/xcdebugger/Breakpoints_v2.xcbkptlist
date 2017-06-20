@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rainyshinycloudy/Constants.swift"
+            timestampString = "519572213.513725"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_1CD6F3D28E3938D025FF4AB18C1AF8A4_func1"
+                  moduleName = "rainyshinycloudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/theluckiest/Desktop/rainyshinycloudy/rainyshinycloudy/Constants.swift"
+                  timestampString = "519572487.210676"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rainyshinycloudy.LATITUDE.unsafeMutableAddressor : Swift.String"
+                  moduleName = "rainyshinycloudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/theluckiest/Desktop/rainyshinycloudy/rainyshinycloudy/Constants.swift"
+                  timestampString = "519572487.21399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rainyshinycloudy/CurrentWethear.swift"
+            timestampString = "519577908.113927"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "downloadWeatherDatails(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rainyshinycloudy.CurrentWeather.downloadWeatherDatails (completed : () -&gt; ()) -&gt; ()"
+                  moduleName = "rainyshinycloudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/theluckiest/Desktop/rainyshinycloudy/rainyshinycloudy/CurrentWethear.swift"
+                  timestampString = "519577984.319303"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rainyshinycloudy.CurrentWeather.(downloadWeatherDatails (completed : () -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "rainyshinycloudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/theluckiest/Desktop/rainyshinycloudy/rainyshinycloudy/CurrentWethear.swift"
+                  timestampString = "519577984.32071"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "4174">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rainyshinycloudy/Forecast.swift"
+            timestampString = "519607283.04967"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "init(weatherDict:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rainyshinycloudy.Forcast.init (weatherDict : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; rainyshinycloudy.Forcast"
+                  moduleName = "rainyshinycloudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/theluckiest/Desktop/rainyshinycloudy/rainyshinycloudy/Forecast.swift"
+                  timestampString = "519607283.326436"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "3139">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rainyshinycloudy.Forcast.init (weatherDict : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; rainyshinycloudy.Forcast"
+                  moduleName = "rainyshinycloudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/theluckiest/Desktop/rainyshinycloudy/rainyshinycloudy/Forecast.swift"
+                  timestampString = "519607283.327812"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "3441">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rainyshinycloudy/Forecast.swift"
+            timestampString = "519607284.447934"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "init(weatherDict:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rainyshinycloudy.Forcast.init (weatherDict : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; rainyshinycloudy.Forcast"
+                  moduleName = "rainyshinycloudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/theluckiest/Desktop/rainyshinycloudy/rainyshinycloudy/Forecast.swift"
+                  timestampString = "519607405.226911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "3139">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rainyshinycloudy.Forcast.init (weatherDict : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; rainyshinycloudy.Forcast"
+                  moduleName = "rainyshinycloudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/theluckiest/Desktop/rainyshinycloudy/rainyshinycloudy/Forecast.swift"
+                  timestampString = "519607405.228303"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "3441">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rainyshinycloudy/Forecast.swift"
+            timestampString = "519607332.274852"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "dayOfTheWeek()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rainyshinycloudy/Forecast.swift"
+            timestampString = "519607334.794774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "dayOfTheWeek()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rainyshinycloudy/WeatherVC.swift"
+            timestampString = "519612650.625066"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "locationAuthStatus()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
